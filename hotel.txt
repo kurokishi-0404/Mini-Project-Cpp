@@ -1,0 +1,71 @@
+----------------------------
+Customer Name : Prathamesh More
+Room Number   : 5
+Days Stayed   : 0
+Total Bill    : Rs.0
+----------------------------
+
+----------------------------
+Customer ID   : 123
+Customer Name : Daksh Srivastava
+Phone Number  : 9588415901
+Room Number   : 2
+Room Type     : AC
+Days Stayed   : 5
+Total Bill    : Rs.7500
+----------------------------
+
+----------------------------
+Customer Name : Daksh Srivastava
+Phone Number  : 9588415901
+Room Number   : 3
+Room Type     : AC
+Days Stayed   : 2
+Total Bill    : Rs.3000
+----------------------------
+
+----------------------------
+Customer Name : Daksh Srivastava
+Phone Number  : 9588415901
+Room Number   : 2
+Room Type     : AC
+Days Stayed   : 3
+Total Bill    : Rs.4500
+----------------------------
+
+----------------------------
+Customer Name : Daksh Srivastava
+Phone Number  : 9588451901
+Room Number   : 2
+Room Type     : AC
+Days Stayed   : 9
+Total Bill    : Rs.13500
+----------------------------
+
+----------------------------
+Customer Name : Daksh
+Phone Number  : 9588415901
+Room Number   : 2
+Room Type     : AC
+Days Stayed   : 2
+Total Bill    : Rs.3000
+----------------------------
+
+----------------------------
+Customer Name : Sumit Shingole
+Phone Number  : 9888415901
+Room Number   : 2
+Room Type     : AC
+Days Stayed   : 3
+Total Bill    : Rs.4500
+----------------------------
+
+----------------------------
+Customer Name : Daksh
+Phone Number  : 9876542213
+Room Number   : 2
+Room Type     : AC
+Days Stayed   : 3
+Total Bill    : Rs.4500
+----------------------------
+
