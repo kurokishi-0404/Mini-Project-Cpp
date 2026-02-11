@@ -12,7 +12,7 @@ protected:
     string name[11];
     string phone[11];
     int days[11];
-    int bill[11];
+    int bill[11]; 
     int roomType[11];
 
 public:
